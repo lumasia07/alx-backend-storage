@@ -1,2 +1,2 @@
-// Insert doc to collection school
-db.school.insertOne({ name: "Holberton school" });
+// 2-insert
+my_db.school.insertOne({ name: "Holberton school" });
